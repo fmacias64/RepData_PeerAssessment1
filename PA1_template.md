@@ -4,7 +4,7 @@
 ## Loading and preprocessing the data
 
 Loading Data...
-Data refers to an activoty log, number of steps for each 5 minutes.
+Data refers to an activity log, number of steps for each 5 minutes.
 
 
 ```r
